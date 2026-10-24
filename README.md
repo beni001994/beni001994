@@ -1,4 +1,4 @@
-﻿# Hi, I'm Beni
+﻿# Hi, I'm Beni Ishimiwe
 
 Software developer based in Nairobi, Kenya. I build web and mobile apps and care about clean, tested code.
 
@@ -21,3 +21,4 @@ Software developer based in Nairobi, Kenya. I build web and mobile apps and care
 ## Contact
 
 beniishimwe01@gmail.com
+
