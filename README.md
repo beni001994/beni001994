@@ -28,6 +28,7 @@ Software developer in Nairobi, Kenya. I build web backends, command-line tools a
 ### Tools
 | Project | What it does | Stack |
 |---|---|---|
+| [mdsite](https://github.com/beni001994/mdsite) | Static site generator with a hand-written Markdown parser, tag pages and an RSS feed, with no runtime dependencies. | TypeScript |
 | [csv-insight](https://github.com/beni001994/csv-insight) | Command-line tool that summarises CSV columns, with JSON output. | Python |
 
 ## How I work
